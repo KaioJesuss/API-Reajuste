@@ -11,13 +11,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Erich-z/Reajuste-Salarial.git"
+    "url": "git+https://github.com/KaioJesuss/API-Reajuste"
   },
   "keywords": [],
   "author": "Kaio jesus",
   "license": "ISC",
   "description": "",
-  "homepage": "https://github.com/Erich-z/Reajuste-Salarial#readme",
+  "homepage": "https://github.com/KaioJesuss/API-Reajuste",
   "dependencies": {
     "express": "^5.1.0"
   }
