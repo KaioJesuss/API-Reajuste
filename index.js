@@ -1,7 +1,7 @@
 import express from "express"
 
 //assegure que essa porta não esteja sendo usada por aplicação alguma no seu pc
-const porta = 3001;
+const porta = 3000;
 const host = "0.0.0.0"; //aqui diz que o host esta disponivel em todas as interfaces de rede no pc
 
 // aqui é a aplicação servidora
@@ -85,5 +85,8 @@ app.get("/", (requisicao, resposta) => {
         `);
     });
 
+    app.listen(porta, host, () => {
+        console.log("Servidor escutando na porta 3000");
+      });
     export default app;
 

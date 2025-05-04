@@ -1,0 +1,4 @@
+https://api-reajuste.vercel.app/?idade=18&sexo=F&salario_base=1700&anoContratacao=2014&matricula=12345
+
+
+Link do repositório - https://github.com/KaioJesuss/API-Reajuste
